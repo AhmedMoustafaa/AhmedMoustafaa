@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed Mustafa and I'm an Aerospace Engineering student at Cairo University</h2>
+<h2 align="left">I don't like introductions</h2>
 
 ###
 
