@@ -11,7 +11,6 @@
   - 🚀 Aerospace Engineering Student @ Cairo University
   - ✈️ UAV Designer & Data Science Enthusiast
   - 🤖 Exploring neural networks + automation in aerospace
-  - 🪑 Designing a smart chair (because why not?)
   - ⚙️ Optimizing ducted fans & toroidal props
   - ☕ Coffee-powered | Faiyum-rooted | Future-focused
   
