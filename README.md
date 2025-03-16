@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>🚀 Developer Profile</h2>
+  <h2>Not a big fan of introductions</h2>
 </div>
 
 ###
