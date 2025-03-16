@@ -22,7 +22,7 @@
     <a href="mailto:ahmedzake611@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" height="25" />
     </a>
-    <a href="discordapp.com/users/682540849007296515" target="_blank">
+    <a href="https://www.discordapp.com/users/682540849007296515" target="_blank">
       <img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white" height="25" />
     </a>
       <a href="https://www.youtube.com/@brianfinch0" target="_blank">
