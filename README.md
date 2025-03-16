@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media1.tenor.com/m/hQU3ltzIjCsAAAAd/rick-and-morty-heist.gif"  />
+<img align="right" height="400" src="https://media1.tenor.com/m/hQU3ltzIjCsAAAAd/rick-and-morty-heist.gif"  />
 
 ###
 
