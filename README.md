@@ -66,7 +66,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31hssun5edkry3lgc4xqs7migqte">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hssun5edkry3lgc4xqs7migqte&count=1&unique=true" alt="Spotify"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hssun5edkry3lgc4xqs7migqte&count=3&unique=true" alt="Spotify"  />
   </a>
   <br>
   <img src="https://profile-counter.glitch.me/AhmedMoustafaa/count.svg?"  />
