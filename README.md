@@ -11,8 +11,6 @@
   - 🚀 Aerospace Engineering Student @ Cairo University
   - ✈️ UAV Designer & Data Science Enthusiast
   - 🤖 Exploring neural networks + automation in aerospace
-  - ⚙️ Optimizing ducted fans & toroidal props
-  - ☕ Coffee-powered | Faiyum-rooted | Future-focused
   
   ### 🔗 Connect
   <div>
