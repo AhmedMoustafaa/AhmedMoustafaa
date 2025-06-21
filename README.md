@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <img align="right" height="320" src="https://media1.tenor.com/m/hQU3ltzIjCsAAAAd/rick-and-morty-heist.gif](https://user-images.githubusercontent.com/58116973/126017740-f1809cda-8f8c-4b93-9ee9-53a8b9853d1f.gif"  />
+  <img align="right" height="320" src="https://media1.tenor.com/m/hQU3ltzIjCsAAAAd/rick-and-morty-heist.gif"/>
 
 
   ### 📌 Quick Facts
