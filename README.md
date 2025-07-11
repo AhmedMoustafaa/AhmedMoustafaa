@@ -7,7 +7,13 @@
 <div align="left">
   <img align="right" height="320" src="https://i.pinimg.com/originals/e2/5e/cf/e25ecf0087ac3cf88f2f735dfaf01920.gif"/>
 
+<h2 align="left">🛠️ Tech Stack</h2>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,matlab,julia,c,docker,git" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,latex,selenium,django,html,vim,bash" />
+</div>
   
   ### 🔗 Connect
   <div>
@@ -40,15 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMoustafaa&layout=compact&theme=dracula&hide_border=true" height="150" />
 </div>
 
-###
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,julia,c,docker,git" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,latex,selenium,django,html,vim,bash" />
-</div>
 
 ###
 
