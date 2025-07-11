@@ -8,10 +8,6 @@
   <img align="right" height="320" src="https://i.pinimg.com/originals/e2/5e/cf/e25ecf0087ac3cf88f2f735dfaf01920.gif"/>
 
 
-  ### 📌 Quick Facts
-  - 🚀 Aerospace Engineering Student @ Cairo University
-  - ✈️ UAV Designer & Data Science Enthusiast
-  - 🤖 Exploring neural networks + automation in aerospace
   
   ### 🔗 Connect
   <div>
